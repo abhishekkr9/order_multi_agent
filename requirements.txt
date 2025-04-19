@@ -1,0 +1,13 @@
+langgraph
+langsmith
+python-dotenv
+langchain
+langchain_groq
+langchain-tavily
+langchain_community
+langchain-google-genai
+grandalf
+beautifulsoup4
+chromadb
+langchain-chroma
+streamlit
