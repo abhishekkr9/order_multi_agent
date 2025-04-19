@@ -1,4 +1,3 @@
-\
 # Multi-Agent Customer Support Assistant
 
 ## Overview
